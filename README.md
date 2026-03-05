@@ -8,7 +8,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=S-sushil1812&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sushil-singh-720573328) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sushilsss521@gmail.com)
 
