@@ -31,6 +31,7 @@ I enjoy working with data, cleaning messy datasets, exploring patterns, and pres
 ### 🧮 Tools & Platforms
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-orange?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
